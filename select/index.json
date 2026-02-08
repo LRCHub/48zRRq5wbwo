@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Play",
+  "base_artist": "NEFFEX",
+  "createdAt": "2026-02-08T11:09:10.287051Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Play",
+      "artist": "Laurel Sabadosh",
+      "has_synced": true,
+      "path": "select/01_Play_Laurel_Sabadosh.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Play It Again",
+      "artist": "Luke Bryan",
+      "has_synced": true,
+      "path": "select/02_Play_It_Again_Luke_Bryan.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "(Hey Won't You Play) Another Somebody Done Somebody Wrong Song",
+      "artist": "B.J. Thomas",
+      "has_synced": false,
+      "path": "select/03_(Hey_Won't_You_Play)_Another_Somebody_Done_Somebody_Wrong_Song_B.J._Thomas.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "I Don't Wanna Play House",
+      "artist": "Tammy Wynette",
+      "has_synced": true,
+      "path": "select/04_I_Don't_Wanna_Play_House_Tammy_Wynette.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "I Don't Wanna Play House (Album Version)",
+      "artist": "Tammy Wynette",
+      "has_synced": true,
+      "path": "select/05_I_Don't_Wanna_Play_House_(Album_Version)_Tammy_Wynette.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "If You're Gonna Play in Texas (You Gotta Have a Fiddle in the Band)",
+      "artist": "Alabama",
+      "has_synced": true,
+      "path": "select/06_If_You're_Gonna_Play_in_Texas_(You_Gotta_Have_a_Fiddle_in_the_Band)_Alabama.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "If You're Gonna Play in Texas (You Gotta Have a Fiddle in the Band)",
+      "artist": "Alabama",
+      "has_synced": true,
+      "path": "select/07_If_You're_Gonna_Play_in_Texas_(You_Gotta_Have_a_Fiddle_in_the_Band)_Alabama.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Let the Music Play",
+      "artist": "Johnny Winter",
+      "has_synced": true,
+      "path": "select/08_Let_the_Music_Play_Johnny_Winter.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Play Something Country",
+      "artist": "Brooks & Dunn",
+      "has_synced": true,
+      "path": "select/09_Play_Something_Country_Brooks_&_Dunn.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Play Guitar Play - Single Version",
+      "artist": "Conway Twitty",
+      "has_synced": false,
+      "path": "select/10_Play_Guitar_Play_-_Single_Version_Conway_Twitty.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "That's What Makes the Jukebox Play",
+      "artist": "Miranda Lambert",
+      "has_synced": true,
+      "path": "select/11_That's_What_Makes_the_Jukebox_Play_Miranda_Lambert.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Childs Play",
+      "artist": "Drake",
+      "has_synced": true,
+      "path": "select/12_Childs_Play_Drake.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "I'll Play the Blues for You",
+      "artist": "Albert King",
+      "has_synced": false,
+      "path": "select/13_I'll_Play_the_Blues_for_You_Albert_King.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "No Time to Play",
+      "artist": "Guru",
+      "has_synced": true,
+      "path": "select/14_No_Time_to_Play_Guru.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "No Time to Play",
+      "artist": "Guru's Jazzmatazz",
+      "has_synced": true,
+      "path": "select/15_No_Time_to_Play_Guru's_Jazzmatazz.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Play That Beat",
+      "artist": "Missy Elliott",
+      "has_synced": true,
+      "path": "select/16_Play_That_Beat_Missy_Elliott.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Play",
+      "artist": "NEFFEX",
+      "has_synced": false,
+      "path": "select/pl_01_Play_NEFFEX.txt"
+    }
+  ]
+}
